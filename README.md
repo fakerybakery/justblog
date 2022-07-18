@@ -1,3 +1,16 @@
+```
+     __         __  ___  __         
+ __ / /_ _____ / /_/ _ )/ /__  ___ _
+/ // / // (_-</ __/ _  / / _ \/ _ `/
+\___/\_,_/___/\__/____/_/\___/\_, / 
+                             /___/  
+                             
+A simple, no-hassle blogging platform for PHP 7 and 8.
+
+Made by mrfakename (www.mrfake.name)
+
+Copyright (c) 2022 mrfakename. All rights reserved.
+```
 # justblog
 a simple and ethical blogging solution for php. works on php 7.4, 8, and 8.1.
 ## License
